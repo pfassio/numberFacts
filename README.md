@@ -1,7 +1,8 @@
 # Random Numer Facts
 ----
-A vanilla JavaScript app that use fetches random facts on any number entered.
+Una app desarrollada con vanilla Javascript que devuelve frases aleatorias relacionadas con el número ingresado.
 
-* The requests are made through the Fetch API
-* Bootstrap is used only for the UI
-* This is a practical exercise to improve my code skills
+
+* Los requests son mediante la Fetch API
+* Bootstrap es utilizado solo para la UI
+* Es un ejercicio práctico para mejorar el desarrollo
