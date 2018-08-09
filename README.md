@@ -1,4 +1,4 @@
-# Random Numer Facts
+# Random Number Facts
 ----
 Una app desarrollada con vanilla Javascript que devuelve frases aleatorias relacionadas con el número ingresado.
 
